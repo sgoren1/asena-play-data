@@ -1,0 +1,378 @@
+[
+  {
+    "id": "trt1",
+    "name": "TRT 1",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trt1.png"
+  },
+  {
+    "id": "trt2",
+    "name": "TRT 2",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trt2.png"
+  },
+  {
+    "id": "showtv",
+    "name": "Show TV",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=ouuCjEjyKVI",
+    "logo": "/channels/logos/showtv.png"
+  },
+  {
+    "id": "showturk",
+    "name": "Show Türk",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=XnvS-RZa4Qw",
+    "logo": "/channels/logos/showturk.png"
+  },
+  {
+    "id": "showmax",
+    "name": "Show MAX",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=Y3vGHFrsqrs",
+    "logo": "/channels/logos/showmax.png"
+  },
+  {
+    "id": "kanald",
+    "name": "Kanal D",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=UBRbgUTeLNo",
+    "logo": "/channels/logos/kanald.png"
+  },
+  {
+    "id": "atv",
+    "name": "ATV",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=M-oU2PiJ7Z4",
+    "logo": "/channels/logos/atv.png"
+  },
+  {
+    "id": "a2",
+    "name": "A2",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=HtnytvwXi5o",
+    "logo": "/channels/logos/a2.png"
+  },
+  {
+    "id": "startv",
+    "name": "Star TV",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=82O6yOy_XwE",
+    "logo": "/channels/logos/startv.png"
+  },
+  {
+    "id": "kanal7",
+    "name": "Kanal 7",
+    "category": "ulusal",
+    "type": "webview",
+    "url": "https://www.kanal7.com/canli-izle",
+    "logo": "/channels/logos/kanal7.png"
+  },
+  {
+    "id": "kanal7avrupa",
+    "name": "Kanal 7 Avrupa",
+    "category": "ulusal",
+    "type": "webview",
+    "url": "https://www.kanal7avrupa.com/canli-izle",
+    "logo": "/channels/logos/kanal7avrupa.png"
+  },
+ {
+    "id": "trtkurdi",
+    "name": "TRT Kurdi",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtkurdi.png"
+  },
+ {
+    "id": "trtturk",
+    "name": "TRT Türk",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtturk.png"
+  },
+ {
+    "id": "trtavaz",
+    "name": "TRT Avaz",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtavaz.png"
+  },
+ {
+    "id": "trteba",
+    "name": "TRT eba",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trteba.png"
+  },
+  {
+    "id": "beyaztv",
+    "name": "Beyaz TV",
+    "category": "ulusal",
+    "type": "webview",
+    "url": "https://beyaztv.com.tr/canli-yayin",
+    "logo": "/channels/logos/beyaztv.png"
+  },
+  {
+    "id": "kanalb",
+    "name": "Kanal B",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8",
+    "logo": "/channels/logos/kanalb.png"
+  },
+  {
+    "id": "teve2",
+    "name": "teve2",
+    "category": "ulusal",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=9J6QB2hskUg",
+    "logo": "/channels/logos/teve2.png"
+  },
+  {
+    "id": "atvaz",
+    "name": "ATV Azərbaycan",
+    "category": "ulusal",
+    "type": "hls",
+    "url": "https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8",
+    "logo": "/channels/logos/atvaz.png"
+  },
+  {
+    "id": "trthaber",
+    "name": "TRT Haber",
+    "category": "news",
+    "type": "hls",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trthaber.jpg"
+  },
+  {
+    "id": "ntv",
+    "name": "NTV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=pqq5c6k70kk",
+    "logo": "/channels/logos/ntv.png"
+  },
+  {
+    "id": "habertürktv",
+    "name": "Habertürk TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=RNVNlJSUFoE",
+    "logo": "/channels/logos/haberturktv.png"
+  },
+  {
+    "id": "cnntürk",
+    "name": "CNN Türk",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=6N8_r2uwLEc",
+    "logo": "/channels/logos/cnnturk.png"
+  },
+  {
+    "id": "now",
+    "name": "NOW",
+    "category": "news",
+    "type": "webview",
+    "url": "https://www.nowtv.com.tr/canli-yayin",
+    "logo": "/channels/logos/now.png"
+  },
+  {
+    "id": "ahaber",
+    "name": "A Haber",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=nmY9i63t6qo",
+    "logo": "/channels/logos/ahaber.png"
+  },
+  {
+    "id": "tgrthaber",
+    "name": "TGRT Haber",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=TsB0xYOH0AU",
+    "logo": "/channels/logos/tgrthaber.png"
+  },
+  {
+    "id": "ulusalkanal",
+    "name": "Ulusal Kanal",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=dK96AZbCns0",
+    "logo": "/channels/logos/ulusalkanal.png"
+  },
+  {
+    "id": "krttv",
+    "name": "KRT TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=sKTq8zmzBvo",
+    "logo": "/channels/logos/krttv.png"
+  },
+ {
+    "id": "flashhaber",
+    "name": "Flash Haber",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=5BN4UOUVOFw",
+    "logo": "/channels/logos/flashhaber.png"
+  },
+ {
+    "id": "benguturktv",
+    "name": "Bengü Türk TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=UDyLAx1tt7E",
+    "logo": "/channels/logos/benguturktv.png"
+  },
+  {
+    "id": "sozcutv",
+    "name": "Sözcü TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=ztmY_cCtUl0",
+    "logo": "/channels/logos/sozcutv.png"
+  },
+  {
+    "id": "24tv",
+    "name": "24 TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=6B-nPOdP720",
+    "logo": "/channels/logos/24tv.png"
+  },
+  {
+    "id": "tvnet",
+    "name": "TV Net",
+    "category": "news",
+    "type": "hls",
+    "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+    "logo": "/channels/logos/tvnet.png"
+  },
+  {
+    "id": "halktv",
+    "name": "Halk TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=VBU0QX6brew",
+    "logo": "/channels/logos/halktv.png"
+  },
+  {
+    "id": "tv100",
+    "name": "TV100",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=6g_DvD8e2T0",
+    "logo": "/channels/logos/tv100.png"
+  },
+  {
+    "id": "akittv",
+    "name": "Akit TV",
+    "category": "news",
+    "type": "youtube",
+    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+    "logo": "/channels/logos/akittv.png"
+  },
+  {
+    "id": "aspor",
+    "name": "A Spor",
+    "category": "sports",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=ysh-bPiD3Oo",
+    "logo": "/channels/logos/aspor.png"
+  },
+  {
+    "id": "beinsportshaber",
+    "name": "BeIN SPORTS HABER",
+    "category": "sports",
+    "type": "youtube",
+    "url": "  https://www.youtube.com/watch?v=9xVXWLwT0vA",
+    "logo": "/channels/logos/beinsportshaber.png"
+  },
+  {
+    "id": "fbtv",
+    "name": "FB TV",
+    "category": "sports",
+    "type": "hls",
+    "url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8",
+    "logo": "/channels/logos/fbtv.jpg"
+  },
+  {
+    "id": "trtçocuk",
+    "name": "TRT Çocuk",
+    "category": "kids",
+    "type": "hls",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtcocuk.png"
+  },
+  {
+    "id": "trtdiyanetcocuk",
+    "name": "TRT Diyanet Çocuk",
+    "category": "kids",
+    "type": "hls",
+    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtdiyanetcocuk.png"
+  },
+  {
+    "id": "trtmuzik",
+    "name": "TRT Müzik",
+    "category": "music",
+    "type": "hls",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtmuzik.png"
+  },
+  {
+    "id": "kralpoptv",
+    "name": "Kral Pop TV",
+    "category": "music",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=GuFTuKoXepw",
+    "logo": "/channels/logos/kralpoptv.jpg"
+  },
+  {
+    "id": "arzufilm",
+    "name": "Arzu Film",
+    "category": "others",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=Pq7ndgZHjjE",
+    "logo": "/channels/logos/arzufilm.jpg"
+  },
+  {
+    "id": "diyanettv",
+    "name": "Diyanet TV",
+    "category": "others",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=I372ZjvP1DE",
+    "logo": "/channels/logos/diyanettv.png"
+  },
+  {
+    "id": "trtworld",
+    "name": "TRT World",
+    "category": "others",
+    "type": "hls",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtworld.png"
+  },
+  {
+    "id": "trtarabi",
+    "name": "TRT Arabi",
+    "category": "others",
+    "type": "hls",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+    "logo": "/channels/logos/trtarabi.png"
+  }
+]

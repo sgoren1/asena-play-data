@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Kurtlar Vadisi Pusu",
+    "genre": "action",
+    "originalPlaylist": "https://www.youtube.com/playlist?list=PLOFoevjhe1HX4HquOBEASUtK_DTfqJSMX",
+    "englishSubPlaylist": "https://www.youtube.com/playlist?list=PLdCSeB2x6R6-UwOrZkLL7wH5ZwWSYgncS",
+    "originalPlaylistInversed": false,
+    "englishPlaylistInversed": true,
+    "image": "1.jpg",
+    "item": "serie",
+    "summary": "An action-packed series following an undercover agent's dangerous mission to infiltrate the Turkish mafia.",
+    "episodeCount": 300
+  },
+  {
+    "id": 2,
+    "name": "Muhteşem Yüzyıl",
+    "genre": "historical",
+    "originalPlaylist": "https://www.youtube.com/playlist?list=PLhs6M1ctjWI-risQRmf_fZy1d2a4donGU",
+    "englishSubPlaylist": "https://www.youtube.com/playlist?list=PLChGk5zHrF-KjAkqLoVB-3PEsZbiacoCh",
+    "originalPlaylistInversed": false,
+    "englishPlaylistInversed": false,
+    "image": "2.jpg",
+    "item": "serie",
+    "summary": "A historical drama depicting the life and reign of Sultan Suleiman the Magnificent during the Ottoman Empire.",
+    "episodeCount": 139
+  },
+  {
+    "id": 3,
+    "name": "Şaban Oğlu Şaban",
+    "genre": "comedy",
+    "originalPlaylist": "https://www.youtube.com/watch?v=ZDoLID8feBU",
+    "englishSubPlaylist": false,
+    "originalPlaylistInversed": false,
+    "englishPlaylistInversed": false,
+    "image": "3.jpg",
+    "item": "movie",
+    "summary": "Şaban Oğlu Şaban, Kemal Sunal'ın canlandırdığı 'Şaban' karakteri üzerine yazılan ve çekilen, 1977 yapımı bir Türk filmidir. Yönetmenliğini Ertem Eğilmez yapmıştır. Askerde kumandanı Hüsamettin'i sürekli yaralayan ve türlü sakarlıklar yapan Şaban ile askerlikten sonra bir eğlence yerinde birlikte çalgıcılık yaptığı asker arkadaşı Ramazan, çalıştıkları yerde kanto yapan Nigar'a aşık olurlar. Sivil hayatta bir polis olan Hüsamettin ve teşkilatının aylardır yakalayamadığı Kadırgalı Eşref'i tesadüfen yakalayıp Hüsamettin'in kayınpederi olan Nazır Paşa'nın gizli polisi olurlar. Nazır Paşa onlara kızkardeşinin kaybolan elmasını bulma görevi verecektir.",
+    "episodeCount": 1
+  }
+]
